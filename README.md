@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Website Portofolio - www.ansoriweb.com</title>
+	<title>Website Portofolio - www.espressoiced.com</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -13,8 +13,8 @@
 	<a href="#footer">CONTACT</a>
 </nav>
 <header id="welcome-section">
-	<h1>Hi, I'm Ahmad Ansori</h1>
-	<p>a blogger at ansoriweb.com</p>
+	<h1>Hi, Alvin Andriana</h1>
+	<p>a blog with the special content in there.</p>
 </header>
 <main id="main">
 	<section id="projects">
